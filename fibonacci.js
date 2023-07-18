@@ -19,7 +19,7 @@ function fibonacci(n) {
             break;
 
         case '1': // Si el numero es 1
-            console.log("0\n1");
+            console.log("0, 1");
             break;
 
         default: // Si el numero es mayor a 1
